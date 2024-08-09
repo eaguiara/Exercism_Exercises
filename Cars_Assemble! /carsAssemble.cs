@@ -41,7 +41,7 @@ static class AssemblyLine
 
     public static int WorkingItemsPerMinute(int speed)
     {
-        int carro = (speed * 221) / 60;
-            return carro;
+        double carro = ProductionRatePerHour(speed) / 60;
+        return (int)carro;
     }
 }
