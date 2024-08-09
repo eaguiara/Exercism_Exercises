@@ -1,15 +1,15 @@
-# Exercism - Exercícios C#
+# Exercism - Exercises C#
 
-Este repositório contém exercícios resolvidos da plataforma [Exercism](https://exercism.io/) para a linguagem de programação C#. Cada exercício está organizado em sua própria pasta com o código-fonte e testes correspondentes.
+This repository contains solved exercises from the Exercism platform for the C# programming language. Each exercise is organized in its own folder with the source code and corresponding tests.
 
-## Estrutura do Repositório
+## Repository Structure
 
-- Cada pasta dentro do repositório representa um exercício específico.
-- Dentro de cada pasta, você encontrará arquivos de código-fonte (`.cs`) e arquivo com a introdução do exercício (`.md`).
+- Each folder within the repository represents a specific exercise.
+- Inside each folder, you will find source code files (.cs) and a file with the exercise introduction (.md).
 
 ## Como Usar
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
    ```sh
    git clone https://github.com/eaguiara/Exercism_Exercises.git
    cd Exercism_Exercises
