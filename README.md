@@ -5,7 +5,7 @@ Este repositório contém exercícios resolvidos da plataforma [Exercism](https:
 ## Estrutura do Repositório
 
 - Cada pasta dentro do repositório representa um exercício específico.
-- Dentro de cada pasta, você encontrará arquivos de código-fonte (`.cs`) e arquivos de teste (`.cs`).
+- Dentro de cada pasta, você encontrará arquivos de código-fonte (`.cs`) e arquivo com a introdução do exercício (`.md`).
 
 ## Como Usar
 
